@@ -15,10 +15,6 @@ body {
     padding-left: 30px;
 }
 
-.img {
-    padding: 15px;
-}
-
 .navbar-brand {
     background-color: crimson;
     padding: 15px;
@@ -28,6 +24,7 @@ body {
     padding-top:0px;
     padding-bottom: 0px;
 }
+
 
 footer {
     font-size: 12px;
