@@ -28,7 +28,7 @@ body {
 
 footer {
     font-size: 12px;
-    font: white;
+    color: white;
     border-top-style: solid;
     border-top-color: crimson;
     border-top-width: 3px;
@@ -38,4 +38,8 @@ footer {
     left: 0;
     right: 0;
     height: 50px;
+}
+
+#photo {
+    margin-right: 15px;
 }
