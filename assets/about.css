@@ -1,0 +1,44 @@
+body {
+    background-color: lightgrey;
+    font-family: 'Dosis', sans-serif;
+}
+
+.col-md-8 {
+    background-color: white;
+    padding-left: 20px;
+    padding-top: 30px;
+}
+.container {
+    
+    margin-top: 30px;
+    margin-left: 30px;
+    padding-left: 30px;
+}
+
+.img {
+    padding: 15px;
+}
+
+.navbar-brand {
+    background-color: crimson;
+    padding: 15px;
+}
+.navbar {
+    margin: 0px;
+    padding-top:0px;
+    padding-bottom: 0px;
+}
+
+footer {
+    font-size: 12px;
+    font: white;
+    border-top-style: solid;
+    border-top-color: crimson;
+    border-top-width: 3px;
+    background-color: rgb(61, 61, 61);
+    position: fixed; 
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 50px;
+}
